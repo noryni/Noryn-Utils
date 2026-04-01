@@ -41,7 +41,7 @@
 - **Some functions require executor support (e.g., `gethwid`, `identifyexecutor`)**
 
 <p align='center'>
-  <img src='http://media.discordapp.net/attachments/1488681075147280537/1488686064200585468/Gemini_Generated_Image_pvwdaypvwdaypvwd.png?ex=69ce5730&is=69cd05b0&hm=e242b492bedfa9470f74f1b29c6f4e01210ab3646fb396233b6797711d43bad1&=&format=webp&quality=lossless'
+  <img src='https://media.discordapp.net/attachments/1488681075147280537/1488912627106316418/Noryn-2.png?ex=69ce8170&is=69cd2ff0&hm=51d9761d73d7b6418c390b5c7c101a2f3b7a2848324e0e0f8923946a29c5b148&=&format=webp&quality=lossless&width=1444&height=813'
        alt='Noryn Utilities Banner'
        width='1000'
        style='max-width: 100%; height: auto;' />
